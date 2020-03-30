@@ -21,7 +21,7 @@ folder.
 
 Add `binding.pry` into the existing methods to jump into your code and confirm
 your suspicions about what is going on. Remember to `require 'pry'` at top of
-each file you want to pry into.
+each file you want to pry into. Using Pry and your 
 
 ## Resources
 
